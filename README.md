@@ -4,7 +4,7 @@
 
 ### compute_overlap function
 
-This R function computes the overlap of the regions between two files containing genomic intervals. 
+This R function computes the cumulative overlap of the regions between two files containing genomic intervals. 
 
 ### Usage 
 
